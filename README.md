@@ -7,11 +7,11 @@
 
 ### About Me
 
-- 👋 Hi, I'm Russel! I'm a Robotics developer and UAV enthusiast.
+- 👋 Hi, I'm Russel! I'm a Robotics developer and Powerlifter enthusiast.
 - 🎓 Transfer AS in CS @ MTSAC '22 | BS in CS '24 @ CPP
 - 🛠️ I'm currently building <a href="https://www.wecracked.com" target="_blank" rel="noopener noreferrer">WeCracked</a>
 , a community for helping students gain SWE experience via hackathons!
-- ⚡ Check out my <a href="https://www.linkedin.com/in/rian-corcino/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://instagram.com/rian.corcino" target="_blank" rel="noreferrer noopener">Instagram 🔴</a>!
+- ⚡ Check out my <a href="https://www.linkedin.com/in/russel-janairo/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://www.instagram.com/russjanairo/" target="_blank" rel="noreferrer noopener">Instagram 🔴</a>!
 
 ### ⚡ Languages and Frameworks
 <table>
