@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 👋 Hi, I'm Russel! Passionate Robotics developer and Powerlifter enthusiast.
+- 🦾 Hi, I'm Russel! Passionate Robotics developer and Powerlifter enthusiast.
 - 🎓 Transfer AS in CS @ MTSAC '22 | BS in CS '24 @ CPP
 - 🛠️ I'm currently building <a href="https://www.wecracked.com" target="_blank" rel="noopener noreferrer">WeCracked</a>
 , a community for helping students gain SWE experience via hackathons!
@@ -15,7 +15,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 🤖 Exploring ROS1/ROS2 with [udemy]([https://scikit-learn.org/](https://docs.ros.org/en/humble/index.html))
 - 💻 Building Spring Boot applications with PostgreSQL
 
 ### ⚡ Languages and Frameworks
