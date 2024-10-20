@@ -13,6 +13,11 @@
 , a community for helping students gain SWE experience via hackathons!
 - ⚡ Check out my <a href="https://www.linkedin.com/in/russel-janairo/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://www.instagram.com/russjanairo/" target="_blank" rel="noreferrer noopener">Instagram 🔴</a>!
 
+## 🚀 What I'm Up To
+
+- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
+- 💻 Building Spring Boot applications with PostgreSQL
+
 ### ⚡ Languages and Frameworks
 <table>
   <tr>
