@@ -9,8 +9,7 @@
 
 - 🦾 Hi, I'm Russel! Passionate Robotics developer and Powerlifter enthusiast.
 - 🎓 Transfer AS in CS @ MTSAC '22 | BS in CS '24 @ CPP
-- 🛠️ I'm currently building <a href="https://www.wecracked.com" target="_blank" rel="noopener noreferrer">WeCracked</a>
-, a community for helping students gain SWE experience via hackathons!
+- 🛠️ I'm currently building this README.md
 - ⚡ Check out my <a href="https://www.linkedin.com/in/russel-janairo/" target="_blank" rel="noreferrer noopener">LinkedIn 🔵</a> and <a href="https://www.instagram.com/russjanairo/" target="_blank" rel="noreferrer noopener">Instagram 🔴</a>!
 
 ## 🚀 What I'm Up To
@@ -28,7 +27,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![VHDL](https://img.shields.io/badge/VHDL-%234C709D.svg?style=for-the-badge&logo=V&logoColor=white)
 
-### 🏆 Hackathon Experiences
+### 🏆 Robotics & UAV Awards/Experiences
 I've competed in several hackathons to solve real-world problems.
 
 To see my projects and achievements, check out my Devpost profile:
