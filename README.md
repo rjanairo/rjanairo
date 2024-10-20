@@ -38,7 +38,7 @@ To see my projects and achievements, check out my Devpost profile:
 - **4 Hackathon Wins**
 - **5 Hackathons Attended**
 
-**Frequently Used Libraries/Frameworks:**
+### 💻 Frequently Used Libraries/Frameworks:
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
